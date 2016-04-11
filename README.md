@@ -7,7 +7,7 @@ This extention allows you to create good looking interactive D3.js charts, which
 ---
 
 ##### This extension adds three new nodes: 
-https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar1.PNG https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist1.PNG https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter1.PNG
+![Nodes](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar1.PNG https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist1.PNG https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter1.PNG)
 
 This extension only has one main dialog tab for manipulating the plot output.  The dialog, shown below, has the following options.
 
