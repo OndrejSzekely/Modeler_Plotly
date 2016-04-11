@@ -8,7 +8,7 @@ This extention allows you to create good looking offline (no need pass data or l
 
 ##### This extension adds three new nodes:
 
-<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar1.PNG" width="70">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar1.PNG" width="73">
 <img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist1.PNG" width="120">
 <img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter1.PNG" width="120">
 
