@@ -17,17 +17,15 @@ Option tab of these nodes is described in documment protocol_en.pdf stored in do
 ![Output3](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter3.PNG)
 
 ##### Screenshots of Options tabs: 
-![Output1](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar4.PNG)
-![Output2](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist4.PNG)
-![Output3](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter4.PNG)
+![Output1](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar4.PNG) ![Output2](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist4.PNG) ![Output3](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter4.PNG)
 
 ---
 ---
 Requirements
 ----
 - IBM SPSS Modeler v17.1 (Modeler 18 might have problems)
-- ‘R Essentials for SPSS Modeler’ plugin
--  R 3.1.x
+- R Essentials for SPSS Modeler’ plugin
+- R 3.1.x
 
 ---
 Installation instructions
@@ -62,7 +60,7 @@ License
 Contributors
 ----
 
-  - Ondrej Szekely ([gdfilla](oszekely@cz.ibm.com))
+  - Ondrej Szekely ([email](oszekely@cz.ibm.com))
 
 [1]: https://opensource.org/licenses/MIT
 [2]: https://github.com/OndrejSzekely/Modeler_Plotly/tree/master/docs
