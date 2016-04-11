@@ -17,8 +17,9 @@ Option tab of these nodes is described in documment protocol_en.pdf stored in do
 ![Output3](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter3.PNG)
 
 ##### Screenshots of Options tabs: 
-![Output1](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar4.PNG) ![Output2](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist4.PNG) ![Output3](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter4.PNG)
-
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar4.PNG" width="120">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist4.PNG" width="120">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter4.PNG" width="120">
 ---
 ---
 Requirements
