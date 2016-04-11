@@ -6,8 +6,10 @@ This extention allows you to create good looking offline(no need pass data or li
 ![Stream](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/grafy.PNG)
 ---
 
-##### This extension adds three new nodes: 
-![Bar Chart](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar1.PNG) ![Histogram](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist1.PNG) ![Scatter plot](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter1.PNG)
+##### This extension adds three new nodes:
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar1.PNG)" width="120">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist1.PNG" width="120">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter1.PNG" width="120">
 
 Option tab of these nodes is described in documment protocol_en.pdf stored in docs folder. [Documentation][2]
 
@@ -17,9 +19,9 @@ Option tab of these nodes is described in documment protocol_en.pdf stored in do
 ![Output3](https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter3.PNG)
 
 ##### Screenshots of Options tabs: 
-<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar4.PNG" width="120">
-<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist4.PNG" width="120">
-<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter4.PNG" width="120">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/bar4.PNG" width="320">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/hist4.PNG" width="320">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Modeler_Plotly/master/screenshots/scatter4.PNG" width="320">
 ---
 ---
 Requirements
