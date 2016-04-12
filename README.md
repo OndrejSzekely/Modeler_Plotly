@@ -27,9 +27,9 @@ Option tab of these nodes is described in documment protocol_en.pdf stored in do
 ---
 Requirements
 ----
-- IBM SPSS Modeler v17.1 (Modeler 18 might have problems)
+- IBM SPSS Modeler v17.1 or higher.
 - R Essentials for SPSS Modeler’ plugin
-- R 3.1.x
+- R 3.1.2 or higher
 
 ---
 Installation instructions
@@ -65,6 +65,9 @@ Contributors
 ----
 
   - Ondrej Szekely ([email](oszekely@cz.ibm.com))
+
+##### Updates:
+- Problems with overlay option are fixed (Histogram, Bar Chart).
 
 [1]: https://opensource.org/licenses/MIT
 [2]: https://github.com/OndrejSzekely/Modeler_Plotly/tree/master/docs
